@@ -1,5 +1,5 @@
-### Hi there 👋
 
+Since the age of 12 I have been fascinated with computers. I taught myself visual basic and from there I was hooked. I now know Python, Javascript, SQL, React, SQL, SQLAlchemy, CSS and so much more, quite a ways from trying to figure out how to script a tile when I was 12. Im looking forward to learning and continuing to grow in this exciting and challenging field.
 <!--
 **PatrickMck34/PatrickMck34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
